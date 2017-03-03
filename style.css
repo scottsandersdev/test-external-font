@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'bentonsansbold';
+    src: url('bentonsans-bold.woff2') format('woff2'),
+         url('bentonsans-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+	font-family: 'bentonsansbold';
+}
