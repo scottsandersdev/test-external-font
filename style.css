@@ -6,6 +6,14 @@
     font-style: normal;
 }
 
+html {
+	font-family: 'bentonsansbold';
+}
+
 h1 {
 	font-family: 'bentonsansbold';
+}
+
+input {
+	font-size: 6;
 }
